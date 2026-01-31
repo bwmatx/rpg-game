@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"$Actor4_1","characterIndex":0,"characterName":"Actor4_2","classId":4,"equips":[39,35,0,16,82],"faceIndex":0,"faceName":"Actor4","traits":[{"code":11,"dataId":4,"value":1},{"code":43,"dataId":235,"value":1},{"code":43,"dataId":234,"value":1},{"code":31,"dataId":4,"value":1},{"code":41,"dataId":2,"value":1},{"code":43,"dataId":13,"value":1}],"initialLevel":1,"maxLevel":15,"name":"Suwondo","nickname":"Wondo","note":"","profile":"Suwondo adalah Ksatria dengan kekuatan Petir yang diturunkan dari Moyangnya"}
+]
